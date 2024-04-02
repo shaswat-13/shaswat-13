@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaswat-13
-- 👀 I’m interested in IoT, Web-Dev & Blockchain
+- 👀 I’m interested in IoT, Web-Dev & Machine learning
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on projects in C
 - 📫 How to reach me: email: shswtsharma@gmail.com  discord: shaswat_xx
