@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaswat-13
 - 👀 I’m interested in IoT, Web-Dev & Machine learning
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on projects in C
+- 🌱 I’m currently learning C, C++ and Python
+- 💞️ I’m looking to collaborate on projects in Python
 - 📫 How to reach me: email: shswtsharma@gmail.com  discord: shaswat_xx
 - ⚡ Fun fact: 
 
