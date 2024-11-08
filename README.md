@@ -1,4 +1,5 @@
 - Hi, I’m @shaswat-13
+- I am a 2nd year undergraduate student studying computer engineering
 
 - I’m interested in Data Science and Digital Marketing
 - I’m currently learning C++ and Python
