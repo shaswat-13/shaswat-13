@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaswat</h1>
-<h3 align="center">Conputer Engineering Student, Aspiring Quantitative Analyst and Data Analyst</h3>
+<h3 align="center">Computer Engineering Student, Aspiring Quantitative Analyst and Data Analyst</h3>
 
 - 🔭 I’m currently working on [Smart Investment Management and Portfolio System](https://github.com/shaswat-13/simps)
 
